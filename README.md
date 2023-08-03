@@ -2,7 +2,7 @@
 
 Simon Game - memory game with colors and sounds. Testing jQuery with Angela Yu Udemy Course.
 
-https://gosiacodes.github.io/React-Vision-Test-App/
+https://gosiacodes.github.io/Simon-Game-with-jQuery/
 
 ## :pushpin: _How does the application work?_
 
